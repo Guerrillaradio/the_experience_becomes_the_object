@@ -13,7 +13,7 @@
 <p>sólo al amor se revela,
 <p>a la conciencia iluminada por amor.
 <p>Privilegio de simples y sencillos,
-<p>como niños". VMGB o MVGB
+<p>como niños". 
 
 
 <a href="https://www.youtube.com/watch?v=HEwtPwkeXjw&start_radio=1&t=86s"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
