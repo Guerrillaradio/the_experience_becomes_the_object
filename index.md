@@ -1,5 +1,5 @@
               
-<p>Es la experiencia se convierte en el objeto, no la experiencia se convierte en objeto
+<p>en el objeto, no en objeto
 <p>
 <p>
                                            
