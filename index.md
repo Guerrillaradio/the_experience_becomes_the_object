@@ -17,4 +17,4 @@
 
 
 <a href="https://www.youtube.com/watch?v=HEwtPwkeXjw&start_radio=1&t=86s"><div><font color="#00ff00">铀</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
-<a href="https://guerrillaradio.github.io/y_si_no_estaba/"><div><font color="#00ff00">.</font></div><div></div><div><font color="#000000"> </font><font color="#000000"> </font></div></a>
+<a href="https://guerrillaradio.github.io/y_si_no_estaba/"><div><font color="#00ff00">.</font></div><div></div><div><font color="#000"> </font><font color="#000"> </font></div></a>
